@@ -1,0 +1,8 @@
+path:  "/home/oem/Desktop"  # dataset root dir
+train: "/home/oem/Desktop/trainmodel-model_v2/train/images"  # train images
+val:   "/home/oem/Desktop/trainmodel-model_v2/val/images"  # val images
+test:  "/home/oem/Desktop/trainmodel-model_v2/test/images" #test images
+
+
+names: 
+  0: pen
